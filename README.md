@@ -14,7 +14,7 @@ Almost Everything
 
 >keyboard
 
->keybard backlight
+>keyboard backlight
 
 >touchpad
 
@@ -30,6 +30,12 @@ Almost Everything
 
 >mic
 
+>battery indicater
+
+>sleep wake
+
+>USB
+
 
 
 Whats not working:
@@ -39,6 +45,11 @@ Whats not working:
 >dGPU Nvedia ( wont work )
 
 >card reader ( did'nt checked )
+
+
+What you need to do:-
+1. Generate your own SMBIOS for MacBookPro15,1
+
 
 
 
