@@ -26,6 +26,9 @@ Almost Everything
 
 >audio
 
+>cam
+
+>mic
 
 
 
