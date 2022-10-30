@@ -11,7 +11,9 @@ Whats working:
 Almost Everything
 
 Whats not working:
+
 >HDMI need to test
+
 >dGPU Nvedia
 
 
