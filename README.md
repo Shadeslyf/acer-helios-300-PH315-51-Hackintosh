@@ -10,11 +10,24 @@ dGPU: GTX 1050Ti
 Whats working:
 Almost Everything
 
+>intel graphics 630 UHD
+>keyboard
+>keybard backlight
+>touchpad
+>brightness control
+>wifi
+>bluetooth
+>audio
+
+
+
 Whats not working:
 
->HDMI need to test
+>HDMI ( did'nt checked )
 
->dGPU Nvedia
+>dGPU Nvedia ( wont work )
+
+>card reader ( did'nt checked )
 
 
 
