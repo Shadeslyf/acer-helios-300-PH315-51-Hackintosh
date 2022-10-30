@@ -11,13 +11,21 @@ Whats working:
 Almost Everything
 
 >intel graphics 630 UHD
+
 >keyboard
+
 >keybard backlight
+
 >touchpad
+
 >brightness control
+
 >wifi
+
 >bluetooth
+
 >audio
+
 
 
 
